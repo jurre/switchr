@@ -8,7 +8,7 @@ function currentPathExtension() {
 }
 
 function viewingObjcFile() {
-  return currentPathExtension() === '.m' || currentPathExtension() === '.h';
+  return document.getElementsByClassName("type-objective-c")[0];
 }
 
 function toggleHeaderAndSource() {
