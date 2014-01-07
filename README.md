@@ -5,6 +5,8 @@ trying to toggle between the header and implementation file?
 
 I know I do, and now it'll behave just like in Xcode!
 
+It apparently also works on Bitbucket!
+
 ### WARNING
 This has barely been tested and will probably break in many ways!
 
